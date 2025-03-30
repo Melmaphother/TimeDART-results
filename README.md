@@ -117,7 +117,7 @@ Full Results in different forecasting mechanism.
 
 ## 5
 
-Illustration of different designs in the [Table3] above.
+Illustration of different designs in the different forecasting mechanism above.
 
 
 ![](fore.png)
